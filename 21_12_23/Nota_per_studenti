@@ -1,0 +1,25 @@
+Cari studenti,
+
+In allegato trovate i due notebook jupyter (file .ipynb) con tutto il codice python utilizzato per le attività discusse in classe. Purtroppo, riprodurre il notebook richiede di installare una grande quantità di pacchetti nell'ambiente Anaconda, non tutti di immediata gestione.
+
+L'operazione generale per installare i vari pacchetti, anche da dentro un jupyter notebook, è 
+
+pip install NOMEDELPACCHETTO 
+oppure 
+conda install NOME DEL PACCHETTO;
+
+ad esempio pip install numpy o conda install hmf. Questo però, per motivi svariati (mancanza di altri pacchetti chiamati "dipendenze", "dependencies" da installare prima, o a volte problemi di compatibilità) rende sovente l'operazione di installazione non immediata, richiede tempo e pazienza e talvolta dipende dal computer. 
+
+Il notebook così com'è può quindi venir aperto in ambiente Anaconda SENZA ESEGUIRE LE CELLE, altrimenti viene restituito un errore e il grafico va perso.  
+
+Lascio pertanto, e suggerisco di guardare, la controparte .html, che si apre cliccandoci sopra dopo averla scaricata, che consente di leggere tutte le mie note, guardare i grafici e i video ed accedere alla bibliografia. 
+ 
+A disposizione per future discussioni,
+Buon divertimento, e buona cosmologia
+
+Andrea 
+
+Mi trovate a questo indirizzo email: andrea.rubiola97@gmail.com
+ 
+ 
+ 
