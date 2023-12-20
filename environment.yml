@@ -168,6 +168,7 @@ dependencies:
   - zeromq=4.3.5=h59595ed_0
   - zipp=3.17.0=pyhd8ed1ab_0
   - zlib=1.2.13=hd590300_5
+  - setuptools
   - pip:
       - astropy==6.0.0
       - astropy-iers-data==0.2023.12.11.0.31.11
@@ -197,4 +198,5 @@ dependencies:
       - rich==13.7.0
       - scipy==1.9.3
       - toml==0.10.2
+      - jupyterlab_latex
 prefix: /home/andrea/anaconda3/envs/camb
